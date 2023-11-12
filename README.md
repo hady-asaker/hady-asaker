@@ -1,6 +1,6 @@
 # Hi 👋, **I'm Hady Asaker - Software Engineer**
 
-<img src='https://e0.pxfuel.com/wallpapers/1005/147/desktop-wallpaper-general-programming-code-minimalism-code-coding-coding-quotes-javascript-code.jpg' width="100%" hight="250" />
+<img src='https://e0.pxfuel.com/wallpapers/1005/147/desktop-wallpaper-general-programming-code-minimalism-code-coding-coding-quotes-javascript-code.jpg' width="900" hight="250" />
 
 **I am a Web Developer specializing in back end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages. I very keen to learn about new technologies and interested in developing.**
 
