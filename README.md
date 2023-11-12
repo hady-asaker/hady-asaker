@@ -1,6 +1,10 @@
 # Hi 👋, **I'm Hady Asaker - Software Engineer**
 
-<br />
+<br/>
+
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=hady-asaker&style=for-the-badge&color=orange" width="200" />
+</div>
 
 **I am a Web Developer specializing in back end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages.**
 
@@ -57,11 +61,19 @@ Here's a glimpse of the skills I bring to the table:
 <a href="https://github.com/hady-asaker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hady-asaker&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
-<br />
-<br />
+<br/><br/>
 <a href="https://github.com/hady-asaker">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hady-asaker&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
 <a href="https://github.com/hady-asaker">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hady-asaker&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
+<br/><br/>
+<a href="https://github.com/hady-asaker">
+
+  ![Hady Asaker's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hady-asaker&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
+  
+</a>
+<br/><br/>
+
+<hr>
