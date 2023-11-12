@@ -50,6 +50,6 @@ Here's a glimpse of the skills I bring to the table:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Asaker" height="30" width="40" />
 </a>
 <a href="https://www.hackerrank.com/hady-asaker" target='_blank'>
-    <img align="center" src="https://www.bing.com/th?id=AMMS_ce7ad2c1dbb8cf8ac6bf1f78f35afa8f&w=148&h=148&c=7&o=6&dpr=1.3&pid=SANGAM" alt="https://www.hackerrank.com/hady-asaker" height="30" width="40" />
+    <img align="center" src="https://th.bing.com/th/id/OIP.v96Iu4uQcA-X8pvdzQhGcwHaHa?w=181&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="https://www.hackerrank.com/hady-asaker" height="30" width="40" />
 </a>
 </p>
