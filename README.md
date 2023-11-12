@@ -2,6 +2,8 @@
 
 <img src='./git.jfif' width="100%" alt="test" />
 
+## Summary
+
 **I am a Web Developer specializing in back end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages. I very keen to learn about new technologies and interested in developing.**
 
 <div align="center">
