@@ -53,3 +53,15 @@ Here's a glimpse of the skills I bring to the table:
     <img align="center" src="https://th.bing.com/th/id/OIP.v96Iu4uQcA-X8pvdzQhGcwHaHa?w=181&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="https://www.hackerrank.com/hady-asaker" height="30" width="40" />
 </a>
 </p>
+
+<a href="https://github.com/hady-asaker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hady-asaker&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+</a>
+<br />
+<br />
+<a href="https://github.com/hady-asaker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hady-asaker&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+</a>
+<a href="https://github.com/hady-asaker">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hady-asaker&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+</a>
