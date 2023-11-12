@@ -1,10 +1,12 @@
 # Hi 👋, **I'm Hady Asaker - Software Engineer**
 
+<img src='https://e0.pxfuel.com/wallpapers/1005/147/desktop-wallpaper-general-programming-code-minimalism-code-coding-coding-quotes-javascript-code.jpg' width="100%" hight="80%" />
+
+**I am a Web Developer specializing in back end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages. I very keen to learn about new technologies and interested in developing.**
+
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=hady-asaker&style=for-the-badge&color=orange" width="100" />
 </div>
-
-**I am a Web Developer specializing in back end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages.**
 
 ## Skills
 
@@ -55,6 +57,17 @@ Here's a glimpse of the skills I bring to the table:
     <img align="center" src="https://th.bing.com/th/id/OIP.v96Iu4uQcA-X8pvdzQhGcwHaHa?w=181&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="https://www.hackerrank.com/hady-asaker" height="30" width="40" />
 </a>
 </p>
+
+## What I'm doing presently?
+
+- 🔭 I’m currently working on full-stack projects using the Vue framework on the front end and Laravel on the back end.
+- 🌱 I’m currently learning Microservices, Message Queue, Service-oriented architecture and OWASP TOP 10. 
+- 👯 I’m looking to collaborate on **Huge** projects. 
+- 💬 Ask me *anything* about `Technology`
+- 📫 <a href="mailto:hadyasaker8@gmail.com">Send an email</a> 
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I love electronics and programming.
+
 
 <a href="https://github.com/hady-asaker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hady-asaker&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
