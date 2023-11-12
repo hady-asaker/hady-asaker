@@ -1,9 +1,7 @@
 # Hi 👋, **I'm Hady Asaker - Software Engineer**
 
-<br/>
-
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=hady-asaker&style=for-the-badge&color=orange" width="200" />
+ <img src="https://komarev.com/ghpvc/?username=hady-asaker&style=for-the-badge&color=orange" width="100" />
 </div>
 
 **I am a Web Developer specializing in back end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages.**
